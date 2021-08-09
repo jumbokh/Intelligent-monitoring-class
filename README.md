@@ -14,3 +14,4 @@
 * [智慧型警監系統](https://www.ncsist.org.tw/csistdup/products/product.aspx?product_Id=70&catalog=12)
 * [Design of Multi-Sensors Cooperation Control System for Intelligent Building](https://www.scirp.org/pdf/EPE_2017041014363794.pdf)
 * [Design and Implementation of A Cloud Based Intelligent Surveillance System](https://core.ac.uk/download/pdf/84071215.pdf)
+* [Youtube: 建構車牌辨識系統預算](https://www.youtube.com/watch?v=G_HLOPw5Bhg)
