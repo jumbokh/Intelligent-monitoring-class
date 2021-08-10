@@ -6,6 +6,11 @@
 3. 各種數位影像演算法準確率之評估方法
 </pre>
 ##
+### 範例程式
+#### ["Pneumonia Detection by Chest X-Ray Images (利用胸腔 X 光片影像進行肺炎檢測)"](https://www.kaggle.com/c/pneumonia-detection)
+* [Pneumonia Detection by CNN with Data Augmentation](https://www.kaggle.com/calexhu/pneumonia-detection-by-cnn-with-data-augmentation)
+#### YOLO on Colab
+* [Yolov3 using Darknet on Colab]()
 ### 參考
 * [智慧影像監控系統發展應用](https://www.digitimes.com.tw/iot/article.asp?cat=130&id=0000145711_bnl69iz32f8hxe05f5ty5)
 * [智慧型影像監控應用技術趨勢與案例分享](https://www.digitimes.com.tw/iot/article.asp?cat=158&cat1=20&cat2=55&id=0000435873_k7w9wr7h6o6yfm4bvybhs)
