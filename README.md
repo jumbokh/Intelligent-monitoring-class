@@ -15,7 +15,7 @@
 * [Eye haar test](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/eye_haar.ipynb)
 #### DeepFace
 * [用 DeepFace 神速打造人臉辨識](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/colab08%20%E7%94%A8%20DeepFace%20%E7%A5%9E%E9%80%9F%E6%89%93%E9%80%A0%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98.ipynb)
-#### YOLO on Colab
+#### YOLO on Colab [如何在 Colab 安裝 Darknet 框架訓練 YOLO v3 物件辨識並且最佳化 Colab 的訓練流程](https://hi-upchen.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8-colab-%E5%AE%89%E8%A3%9D-darknet-%E6%A1%86%E6%9E%B6%E8%A8%93%E7%B7%B4-yolo-v3-%E7%89%A9%E4%BB%B6%E8%BE%A8%E8%AD%98%E4%B8%A6%E4%B8%94%E6%9C%80%E4%BD%B3%E5%8C%96-colab-%E7%9A%84%E8%A8%93%E7%B7%B4%E6%B5%81%E7%A8%8B-e5ded7bbab00)
 * [Yolov3 using Darknet on Colab](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/Yolov3_using_Darknet_on_Colab.ipynb)
 #### Tensorflow
 * [Tensorflow object dection](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/tensorflow_object_detection_training_colab.ipynb)
