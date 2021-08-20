@@ -35,3 +35,4 @@
 * [Youtube: How computers learn to recognize objects instantly - TED2017 in Vancouver, Canada](https://www.youtube.com/watch?v=XS2UWYuh5u0)
 * [Google Image Search](https://pypi.org/project/Google-Images-Search/)
 * [Tutorial: Implement Object Recognition on Live Stream](https://medium.com/iotforall/tutorial-implement-object-recognition-on-live-stream-cc384f8556cc)
+* [Google Cloud vision API](https://cloud.google.com/vision/?_ga=2.52389289.-1826984446.1626938380&_gac=1.159183048.1629446431.Cj0KCQjwpf2IBhDkARIsAGVo0D3CovHQixQCkT3pvLt3c0CtPH2p701X9zEjTYSPmDtjY_GTiLto8R8aApIJEALw_wcB)
