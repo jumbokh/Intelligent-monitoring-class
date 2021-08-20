@@ -6,6 +6,8 @@
 3. 各種數位影像演算法準確率之評估方法
 </pre>
 ##
+### 簡報
+* [智慧監視](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/doc/%E6%99%BA%E6%85%A7%E7%9B%A3%E8%A6%96%E8%AA%B2%E7%A8%8B.pptx)
 ### 範例程式
 #### HAARCASCADES
 * [Test Haarcascade](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/haarcascades/Test_haars1.ipynb)
@@ -34,6 +36,7 @@
 * [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
 * [YOLO CVPR 2016](https://docs.google.com/presentation/d/1kAa7NOamBt4calBU9iHgT8a86RRHz9Yz2oh4-GTdX6M/edit#slide=id.g15092aa245_0_272)
 * [pdf: YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
+* [pdf: YOLOv4](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/doc/YOLOv4.pdf)
 * [IQA: Visual Question Answering in Interactive Environments](https://pjreddie.com/media/files/papers/IQA.pdf)
 * [YOLO9000: Better, Faster, Stronger](https://pjreddie.com/media/files/papers/YOLO9000.pdf)
 * [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://pjreddie.com/media/files/papers/xnor.pdf)
