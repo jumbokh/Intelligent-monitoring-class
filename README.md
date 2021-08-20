@@ -33,6 +33,8 @@
 * [Design of Multi-Sensors Cooperation Control System for Intelligent Building](https://www.scirp.org/pdf/EPE_2017041014363794.pdf)
 * [Design and Implementation of A Cloud Based Intelligent Surveillance System](https://core.ac.uk/download/pdf/84071215.pdf)
 * [Youtube: 建構車牌辨識系統預算](https://www.youtube.com/watch?v=G_HLOPw5Bhg)
+* [Python影像辨識筆記(九之五)：透過Google Colab在雲端運行YOLOv3](https://yanwei-liu.medium.com/python%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98%E7%AD%86%E8%A8%98-%E4%B9%9D%E4%B9%8B%E4%BA%94-%E9%80%8F%E9%81%8Egoogle-colab%E5%9C%A8%E9%9B%B2%E7%AB%AF%E9%81%8B%E8%A1%8Cyolov3-296275c343ed)
+* [如何在 Colab 安裝 Darknet 框架訓練 YOLO v3 物件辨識並且最佳化 Colab 的訓練流程](https://hi-upchen.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8-colab-%E5%AE%89%E8%A3%9D-darknet-%E6%A1%86%E6%9E%B6%E8%A8%93%E7%B7%B4-yolo-v3-%E7%89%A9%E4%BB%B6%E8%BE%A8%E8%AD%98%E4%B8%A6%E4%B8%94%E6%9C%80%E4%BD%B3%E5%8C%96-colab-%E7%9A%84%E8%A8%93%E7%B7%B4%E6%B5%81%E7%A8%8B-e5ded7bbab00)
 #### 視覺辨識及演算法
 * [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
 * [YOLO官網](https://pjreddie.com/darknet/yolo/)
