@@ -41,6 +41,9 @@
 * [pdf: YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 * [pdf: YOLOv4](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/doc/YOLOv4.pdf)
 * [IQA: Visual Question Answering in Interactive Environments](https://pjreddie.com/media/files/papers/IQA.pdf)
+* [Youtube: YOLO Object Detection (TensorFlow tutorial)](https://www.youtube.com/watch?v=4eIBisqx9_g&t=573s)
+* [Youtube: YOLOv2 vs YOLOv3 vs Mask RCNN vs Deeplab Xception](https://www.youtube.com/watch?v=s8Ui_kV9dhw&t=80s)
+* [Youtube: You Only Look Once: Unified, Real-Time Object Detection](https://www.youtube.com/watch?v=NM6lrxy0bxs&t=3s)
 #### 其他算法
 * [YOLO9000: Better, Faster, Stronger](https://pjreddie.com/media/files/papers/YOLO9000.pdf)
 * [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://pjreddie.com/media/files/papers/xnor.pdf)
