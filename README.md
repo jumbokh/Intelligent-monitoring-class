@@ -7,10 +7,18 @@
 </pre>
 ##
 ### 範例程式
-#### ["Pneumonia Detection by Chest X-Ray Images (利用胸腔 X 光片影像進行肺炎檢測)"](https://www.kaggle.com/c/pneumonia-detection)
-* [Pneumonia Detection by CNN with Data Augmentation](https://www.kaggle.com/calexhu/pneumonia-detection-by-cnn-with-data-augmentation)
+#### HAARCASCADES
+* [Test Haarcascade](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/haarcascades/Test_haars1.ipynb)
+* [Face haar test](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/Face_haar.ipynb)
+* [Eye haar test](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/eye_haar.ipynb)
+#### DeepFace
+* [用 DeepFace 神速打造人臉辨識](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/colab08%20%E7%94%A8%20DeepFace%20%E7%A5%9E%E9%80%9F%E6%89%93%E9%80%A0%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98.ipynb)
 #### YOLO on Colab
 * [Yolov3 using Darknet on Colab](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/Yolov3_using_Darknet_on_Colab.ipynb)
+#### Tensorflow
+* [Tensorflow object dection](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/tensorflow_object_detection_training_colab.ipynb)
+#### ["Pneumonia Detection by Chest X-Ray Images (利用胸腔 X 光片影像進行肺炎檢測)"](https://www.kaggle.com/c/pneumonia-detection)
+* [Pneumonia Detection by CNN with Data Augmentation](https://www.kaggle.com/calexhu/pneumonia-detection-by-cnn-with-data-augmentation)
 #### Jatson Nano 2G 安裝Jetpack 4.6 jetson-inference opencv 4.5.3 anaconda tensorflow dlib and darknet
 * [Jatson Nano 2G](https://hackmd.io/@mikechantw/BJAcnKzJY?fbclid=IwAR0Rpqdkg7Ok_YPd_JsZhBma8IYbZ5XeWG56WiTnuGKv0ddiDeRFdzr8OOA)
 ### 參考
