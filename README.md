@@ -34,6 +34,7 @@
 * [Design and Implementation of A Cloud Based Intelligent Surveillance System](https://core.ac.uk/download/pdf/84071215.pdf)
 * [Youtube: 建構車牌辨識系統預算](https://www.youtube.com/watch?v=G_HLOPw5Bhg)
 #### 視覺辨識及演算法
+* [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
 * [YOLO官網](https://pjreddie.com/darknet/yolo/)
 * [深度學習系列: 什麼是AP/mAP?](https://chih-sheng-huang821.medium.com/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E7%B3%BB%E5%88%97-%E4%BB%80%E9%BA%BC%E6%98%AFap-map-aaf089920848)
 * [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
