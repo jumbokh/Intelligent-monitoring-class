@@ -19,6 +19,8 @@
 * [Yolov3 using Darknet on Colab](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/Yolov3_using_Darknet_on_Colab.ipynb)
 #### Tensorflow
 * [Tensorflow object dection](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/tensorflow_object_detection_training_colab.ipynb)
+#### Teachable Machine
+* [Teachable Machine](https://teachablemachine.withgoogle.com/train)
 #### ["Pneumonia Detection by Chest X-Ray Images (利用胸腔 X 光片影像進行肺炎檢測)"](https://www.kaggle.com/c/pneumonia-detection)
 * [Pneumonia Detection by CNN with Data Augmentation](https://www.kaggle.com/calexhu/pneumonia-detection-by-cnn-with-data-augmentation)
 #### Jatson Nano 2G 安裝Jetpack 4.6 jetson-inference opencv 4.5.3 anaconda tensorflow dlib and darknet
