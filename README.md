@@ -59,7 +59,7 @@
 * [Youtube: How computers learn to recognize objects instantly - TED2017 in Vancouver, Canada](https://www.youtube.com/watch?v=XS2UWYuh5u0)
 * [Google Image Search](https://pypi.org/project/Google-Images-Search/)
 * [Tutorial: Implement Object Recognition on Live Stream](https://medium.com/iotforall/tutorial-implement-object-recognition-on-live-stream-cc384f8556cc)
-* [Google Cloud vision API](https://cloud.google.com/vision/?_ga=2.52389289.-1826984446.1626938380&_gac=1.159183048.1629446431.Cj0KCQjwpf2IBhDkARIsAGVo0D3CovHQixQCkT3pvLt3c0CtPH2p701X9zEjTYSPmDtjY_GTiLto8R8aApIJEALw_wcB)
+
 * [機器學習\統計方法: 模型評估-驗證指標(validation index)](https://chih-sheng-huang821.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%B5%B1%E8%A8%88%E6%96%B9%E6%B3%95-%E6%A8%A1%E5%9E%8B%E8%A9%95%E4%BC%B0-%E9%A9%97%E8%AD%89%E6%8C%87%E6%A8%99-b03825ff0814)
 #### NVIDIA Jetson Nano
 * [NVIDIA Jetson Nano應用-安裝Deep Stream SDK與執行深度影像串流範例](https://www.rs-online.com/designspark/nvidia-jetson-nano-deep-stream-sdk-cn?fbclid=IwAR0ZisOfQjNzsM0O-Y09tof-FgtKGf8fnJLG0Nigs6EDH7Zkpkd1r5Vdx4c)
@@ -67,4 +67,5 @@
 * [一起學AI！MediaPipe 應用教學-單元(一)環境設定](http://www.circuspi.com/index.php/2021/06/23/ai-mediapipe-unit1/)
 #### Cloud VISION API
 * [Cloud Vision 電腦視覺實戰](https://github.com/jumbokh/gcp_class/tree/master/VISION)
+* [Google Cloud vision API](https://cloud.google.com/vision/?_ga=2.52389289.-1826984446.1626938380&_gac=1.159183048.1629446431.Cj0KCQjwpf2IBhDkARIsAGVo0D3CovHQixQCkT3pvLt3c0CtPH2p701X9zEjTYSPmDtjY_GTiLto8R8aApIJEALw_wcB)
 * [AZURE: 自訂視覺](https://azure.microsoft.com/zh-tw/services/cognitive-services/custom-vision-service/#overview)
