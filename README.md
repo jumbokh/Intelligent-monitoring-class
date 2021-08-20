@@ -35,6 +35,8 @@
 * [Youtube: 建構車牌辨識系統預算](https://www.youtube.com/watch?v=G_HLOPw5Bhg)
 * [Python影像辨識筆記(九之五)：透過Google Colab在雲端運行YOLOv3](https://yanwei-liu.medium.com/python%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98%E7%AD%86%E8%A8%98-%E4%B9%9D%E4%B9%8B%E4%BA%94-%E9%80%8F%E9%81%8Egoogle-colab%E5%9C%A8%E9%9B%B2%E7%AB%AF%E9%81%8B%E8%A1%8Cyolov3-296275c343ed)
 * [如何在 Colab 安裝 Darknet 框架訓練 YOLO v3 物件辨識並且最佳化 Colab 的訓練流程](https://hi-upchen.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8-colab-%E5%AE%89%E8%A3%9D-darknet-%E6%A1%86%E6%9E%B6%E8%A8%93%E7%B7%B4-yolo-v3-%E7%89%A9%E4%BB%B6%E8%BE%A8%E8%AD%98%E4%B8%A6%E4%B8%94%E6%9C%80%E4%BD%B3%E5%8C%96-colab-%E7%9A%84%E8%A8%93%E7%B7%B4%E6%B5%81%E7%A8%8B-e5ded7bbab00)
+* [訓練自己的 haar 臉部辨識](https://github.com/jumbokh/cv_face/tree/master/opencv/day3)
+* [Face Recognition 人脸识别](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)
 #### 視覺辨識及演算法
 * [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
 * [YOLO官網](https://pjreddie.com/darknet/yolo/)
@@ -59,3 +61,10 @@
 * [Tutorial: Implement Object Recognition on Live Stream](https://medium.com/iotforall/tutorial-implement-object-recognition-on-live-stream-cc384f8556cc)
 * [Google Cloud vision API](https://cloud.google.com/vision/?_ga=2.52389289.-1826984446.1626938380&_gac=1.159183048.1629446431.Cj0KCQjwpf2IBhDkARIsAGVo0D3CovHQixQCkT3pvLt3c0CtPH2p701X9zEjTYSPmDtjY_GTiLto8R8aApIJEALw_wcB)
 * [機器學習\統計方法: 模型評估-驗證指標(validation index)](https://chih-sheng-huang821.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%B5%B1%E8%A8%88%E6%96%B9%E6%B3%95-%E6%A8%A1%E5%9E%8B%E8%A9%95%E4%BC%B0-%E9%A9%97%E8%AD%89%E6%8C%87%E6%A8%99-b03825ff0814)
+#### NVIDIA Jetson Nano
+* [NVIDIA Jetson Nano應用-安裝Deep Stream SDK與執行深度影像串流範例](https://www.rs-online.com/designspark/nvidia-jetson-nano-deep-stream-sdk-cn?fbclid=IwAR0ZisOfQjNzsM0O-Y09tof-FgtKGf8fnJLG0Nigs6EDH7Zkpkd1r5Vdx4c)
+* [在 Jetson Nano 上執行 Google Mediapipe，立即可用的辨識方案超好用！](https://blog.cavedu.com/2021/07/27/jetson-nano-google-mediapipe/?fbclid=IwAR3RCV9_xN_sPcsm_8NQfP4Lby5LocChK7l3h6b26HX46E-m7yu2SXKJZoI)
+* [一起學AI！MediaPipe 應用教學-單元(一)環境設定](http://www.circuspi.com/index.php/2021/06/23/ai-mediapipe-unit1/)
+#### Cloud VISION API
+* [Cloud Vision 電腦視覺實戰](https://github.com/jumbokh/gcp_class/tree/master/VISION)
+* [AZURE: 自訂視覺](https://azure.microsoft.com/zh-tw/services/cognitive-services/custom-vision-service/#overview)
