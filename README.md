@@ -7,7 +7,7 @@
 </pre>
 ##
 ### 簡報
-* [智慧監視](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/doc/%E6%99%BA%E6%85%A7%E7%9B%A3%E8%A6%96%E8%AA%B2%E7%A8%8B.pptx)
+* [智慧監視](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/doc/%E6%99%BA%E6%85%A7%E7%9B%A3%E8%A6%96%E8%AA%B2%E7%A8%8B.pdf)
 ### 範例程式
 #### [Teachable Machine](https://teachablemachine.withgoogle.com/train)
 * ![TM](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/images/Teachable-Machine.JPG)
