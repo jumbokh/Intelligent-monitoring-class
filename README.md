@@ -17,6 +17,7 @@
 #### HAARCASCADES
 * [Test Haarcascade](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/haarcascades/Test_haars1.ipynb)
 * [Face haar test](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/Face_haar.ipynb)
+* ![Dirs](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/dirs-colab.JPG)
 * [Eye haar test](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/eye_haar.ipynb)
 #### DeepFace
 * [用 DeepFace 神速打造人臉辨識](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/colab08%20%E7%94%A8%20DeepFace%20%E7%A5%9E%E9%80%9F%E6%89%93%E9%80%A0%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98.ipynb)
