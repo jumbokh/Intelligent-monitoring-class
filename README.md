@@ -1,4 +1,4 @@
-# Intelligent-monitoring-class  shorturl.at/nEM36
+# Intelligent-monitoring-class  
 ### 中國醫藥大學 智慧型監控系統
 <pre>
 1. 偵測演算法概論與實作
