@@ -14,7 +14,7 @@
 * [notebooks](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/Teachable_Machine.ipynb)
 * [model](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/keras_model.h5)
 * [labels](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/labels.txt)
-#### HAARCASCADES
+#### HAARCASCADES [opencv cascade files](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 * [Test Haarcascade](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/haarcascades/Test_haars1.ipynb)
 * [Face haar test](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/Face_haar.ipynb)
 * ![Dirs](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/dirs-colab.JPG)
