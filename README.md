@@ -48,6 +48,7 @@
 #### 視覺辨識及演算法
 * [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
 * [机器学习原来这么有趣！第四章：用深度学习识别人脸](https://zhuanlan.zhihu.com/p/24567586)
+    * [GITHUB](https://gist.github.com/ageitgey)
 * [YOLO官網](https://pjreddie.com/darknet/yolo/)
 * [深度學習系列: 什麼是AP/mAP?](https://chih-sheng-huang821.medium.com/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E7%B3%BB%E5%88%97-%E4%BB%80%E9%BA%BC%E6%98%AFap-map-aaf089920848)
 * [深度學習-什麼是one stage，什麼是two stage 物件偵測](https://chih-sheng-huang821.medium.com/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-%E4%BB%80%E9%BA%BC%E6%98%AFone-stage-%E4%BB%80%E9%BA%BC%E6%98%AFtwo-stage-%E7%89%A9%E4%BB%B6%E5%81%B5%E6%B8%AC-fc3ce505390f)
