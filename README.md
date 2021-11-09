@@ -11,6 +11,7 @@
 ### 範例程式
 #### [Teachable Machine](https://teachablemachine.withgoogle.com/train) [屈中恆、鈕承澤、宋少卿資料集](https://drive.google.com/file/d/1zLCMhRDXcGE_SdGnfFT6WWUy1D0Q0uYa/view?usp=sharing)
 * ![TM](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/images/Teachable-Machine.JPG)
+* [1109 class](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/TeachMachine_Face.ipynb)
 * [notebooks](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/Teachable_Machine.ipynb)
 * [model](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/keras_model.h5)
 * [labels](https://github.com/jumbokh/Intelligent-monitoring-class/blob/main/notebooks/labels.txt)
