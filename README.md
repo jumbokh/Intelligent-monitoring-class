@@ -81,3 +81,4 @@
 * [Google Cloud vision API](https://cloud.google.com/vision/?_ga=2.52389289.-1826984446.1626938380&_gac=1.159183048.1629446431.Cj0KCQjwpf2IBhDkARIsAGVo0D3CovHQixQCkT3pvLt3c0CtPH2p701X9zEjTYSPmDtjY_GTiLto8R8aApIJEALw_wcB)
 * [AZURE: 自訂視覺](https://azure.microsoft.com/zh-tw/services/cognitive-services/custom-vision-service/#overview)
 * [WebRTC and MediaStream API](https://github.com/maartenbreddels/ipywebrtc#installation)
+* [cuDNN](https://drive.google.com/file/d/1K4sqni1I1u_eYVvz5PqFY0eVAr6qwkVz/view?usp=sharing)
